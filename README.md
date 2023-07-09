@@ -20,5 +20,26 @@ First, a list of Nasdaq-100 company tickers is obtained from Wikipedia. Then we 
 
 ![image](https://github.com/AAKASHKSHETTY/Trading_Strategy_Nasdaq_100/assets/58876667/c6e66ece-464e-43f9-bb6f-861339f62456)
 
+## Technical Indicators
+
+We have selected 6 Trading Strategy:
+
+Simple Moving Average Based on Adj. Close
+Simple Moving Average Based on Volume
+Breakout High-Low 30
+Average True Range
+Moving Average Convergence-Divergence (MACD)
+Bollinger Bands
+
+We will go through the results from each of the technical indicators in the following pages, for in detail code and results we have shared ipynb notebook in the final submission.
+
+### Simple Moving Average Based on Adj. Close
+
+Calculating the moving average of a stock serves the purpose of creating a constantly updated average price, which helps to smooth out the price data. By doing so, the impact of random, short-term fluctuations on the price of a stock over a specified period of time is minimized. Additionally, we use the golden cross as a tool to track trading signals, which is interpreted by analysts and traders as an indication of an upward turn in the market. When the short-term moving average crosses above the long-term moving average, we identify buying signals. To illustrate how this trading strategy based on simple moving average (price) signals could be used, we have provided an example plot of trading Apple stock from January 2022 to present. We have use 10 as the short term moving average and 30 as the long term moving average.
+
+### Simple Moving Average Based on Volume
+
+Volume based simple moving averages can assist traders in identifying trend strength and changes in volume by mitigating the impact of isolated spikes in volume activity in an index. Buying signals are identified when the SMA volume 10 crosses SMA volume 30.
+
 
 
