@@ -16,6 +16,9 @@ This strategy, performs better than the individual stocks and other strategies t
 
 ## Dataset
 
-First, a list of Nasdaq-100 company tickers is obtained from Wikipedia. Then we use pandas datareader to get daily data from Yahoo Finance for each ticker from January 2009-01-01 to the present. The final dataset includes the following information, for every ticker, before further calculations. 
+First, a list of Nasdaq-100 company tickers is obtained from Wikipedia. Then we use pandas datareader to get daily data from Yahoo Finance for each ticker from January 2009-01-01 to the present. The final dataset includes the following information, for every ticker, before further calculations.
+
+![image](https://github.com/AAKASHKSHETTY/Trading_Strategy_Nasdaq_100/assets/58876667/c6e66ece-464e-43f9-bb6f-861339f62456)
+
 
 
