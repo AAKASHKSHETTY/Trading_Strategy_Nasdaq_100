@@ -89,6 +89,12 @@ We can observe that bollinger bands have a general better performance and breako
 
 <img width="771" alt="image" src="https://github.com/AAKASHKSHETTY/Trading_Strategy_Nasdaq_100/assets/58876667/c592cee8-51ea-43d5-9461-c67f4623ee3c">
 
+<img width="554" alt="image" src="https://github.com/AAKASHKSHETTY/Trading_Strategy_Nasdaq_100/assets/58876667/8da95af6-df90-4cbd-8d71-eedaafa57774">
+
+<img width="554" alt="image" src="https://github.com/AAKASHKSHETTY/Trading_Strategy_Nasdaq_100/assets/58876667/9cdae522-2166-4ebe-92e9-4fba70e8c95e">
+
+<img width="558" alt="image" src="https://github.com/AAKASHKSHETTY/Trading_Strategy_Nasdaq_100/assets/58876667/e4dd3d88-3993-4c93-8722-0b0e6568b77d">
+
 ## Conclusion
 
 The results show that our trading strategy yielded a Sharpe of 1.991 which outperformed a buy and hold SPY strategy with Sharpe 0.67. The addition of indicators and weighted portfolio proved very useful in predicting buying and selling opportunities.
